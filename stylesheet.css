@@ -1,0 +1,10 @@
+.container{
+  padding: 0 50px;
+}
+.city{
+  border: 2px solid black;
+  display:inline-block;
+  margin: 15px 25px;
+  height: 500px;
+  width: 425px;
+}
